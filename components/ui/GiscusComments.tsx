@@ -5,10 +5,10 @@ import Giscus from "@giscus/react";
 export default function GiscusComments() {
   return (
     <Giscus
-      repo="your-username/photo-wall"
-      repoId=""
+      repo="blessonism/family-photowall"
+      repoId="R_kgDORTGxeg"
       category="General"
-      categoryId=""
+      categoryId="DIC_kwDORTGxes4C2tfW"
       mapping="pathname"
       strict="0"
       reactionsEnabled="1"
