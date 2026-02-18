@@ -1,0 +1,130 @@
+{
+  "members": [
+    {
+      "id": "001",
+      "name": "张德厚",
+      "generation": 1,
+      "branch": "主家",
+      "title": "家族长辈",
+      "bio": "家族的精神支柱，一生致力于教育事业，培养了无数学子。为人正直，德高望重，是后辈们学习的楷模。",
+      "photo": "/images/members/placeholder.svg",
+      "birthYear": 1940,
+      "highlights": ["教育事业四十年", "桃李满天下"],
+      "parentId": null,
+      "spouseId": null,
+      "childrenIds": ["002", "003", "006"],
+      "gender": "M",
+      "timeline": [
+        { "year": 1940, "event": "出生于书香门第" },
+        { "year": 1962, "event": "大学毕业，投身教育" },
+        { "year": 1980, "event": "升任中学校长" },
+        { "year": 2000, "event": "荣休，桃李满天下" }
+      ]
+    },
+    {
+      "id": "002",
+      "name": "张明远",
+      "generation": 2,
+      "branch": "主家",
+      "title": "家族中坚",
+      "bio": "继承了父辈的优良传统，在工程领域深耕多年。重视家庭团聚，每年组织家族聚会，维系亲情纽带。",
+      "photo": "/images/members/placeholder.svg",
+      "birthYear": 1965,
+      "highlights": ["高级工程师", "家族活动组织者"],
+      "parentId": "001",
+      "spouseId": null,
+      "childrenIds": ["004", "005"],
+      "gender": "M",
+      "timeline": [
+        { "year": 1965, "event": "出生" },
+        { "year": 1987, "event": "工科毕业" },
+        { "year": 1992, "event": "晋升高级工程师" },
+        { "year": 2010, "event": "开始组织年度家族聚会" }
+      ]
+    },
+    {
+      "id": "003",
+      "name": "张婉清",
+      "generation": 2,
+      "branch": "主家",
+      "title": "家族贤达",
+      "bio": "温柔而坚韧，在医疗领域服务三十余年。她的关爱不仅温暖了无数患者，也是家族中最温暖的存在。",
+      "photo": "/images/members/placeholder.svg",
+      "birthYear": 1968,
+      "highlights": ["主任医师", "志愿服务先锋"],
+      "parentId": "001",
+      "spouseId": null,
+      "childrenIds": [],
+      "gender": "F",
+      "timeline": [
+        { "year": 1968, "event": "出生" },
+        { "year": 1992, "event": "医学院毕业" },
+        { "year": 2005, "event": "晋升主任医师" },
+        { "year": 2015, "event": "发起家族健康志愿服务" }
+      ]
+    },
+    {
+      "id": "004",
+      "name": "张子轩",
+      "generation": 3,
+      "branch": "主家",
+      "title": "新生代",
+      "bio": "年轻一代的代表，热爱科技与创新。致力于用技术改变世界，同时不忘传承家族的精神与文化。",
+      "photo": "/images/members/placeholder.svg",
+      "birthYear": 1992,
+      "highlights": ["科技创业者", "家族网站创建者"],
+      "parentId": "002",
+      "spouseId": null,
+      "childrenIds": [],
+      "gender": "M",
+      "timeline": [
+        { "year": 1992, "event": "出生" },
+        { "year": 2014, "event": "计算机专业毕业" },
+        { "year": 2018, "event": "创办科技公司" },
+        { "year": 2024, "event": "搭建家族传承网站" }
+      ]
+    },
+    {
+      "id": "005",
+      "name": "张思琪",
+      "generation": 3,
+      "branch": "主家",
+      "title": "新生代",
+      "bio": "艺术与人文的追求者，用画笔记录家族的点滴。她相信艺术是连接过去与未来最好的桥梁。",
+      "photo": "/images/members/placeholder.svg",
+      "birthYear": 1995,
+      "highlights": ["青年艺术家", "家族故事记录者"],
+      "parentId": "002",
+      "spouseId": null,
+      "childrenIds": [],
+      "gender": "F",
+      "timeline": [
+        { "year": 1995, "event": "出生" },
+        { "year": 2017, "event": "美术学院毕业" },
+        { "year": 2020, "event": "举办首次个人画展" },
+        { "year": 2023, "event": "开始记录家族故事" }
+      ]
+    },
+    {
+      "id": "006",
+      "name": "张志刚",
+      "generation": 2,
+      "branch": "二房",
+      "title": "家族骨干",
+      "bio": "勤劳务实，经营家族产业多年。他的坚持与付出，为家族的发展奠定了坚实的经济基础。",
+      "photo": "/images/members/placeholder.svg",
+      "birthYear": 1962,
+      "highlights": ["企业家", "家族产业奠基人"],
+      "parentId": "001",
+      "spouseId": null,
+      "childrenIds": [],
+      "gender": "M",
+      "timeline": [
+        { "year": 1962, "event": "出生" },
+        { "year": 1984, "event": "大学毕业" },
+        { "year": 1990, "event": "创办家族企业" },
+        { "year": 2010, "event": "企业规模突破百人" }
+      ]
+    }
+  ]
+}

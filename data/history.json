@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "year": 1950,
+      "title": "家族扎根",
+      "description": "祖辈在这片土地上扎下根基，开始了新的篇章。勤劳与智慧成为家族最珍贵的传承。",
+      "image": "/images/history/placeholder.svg"
+    },
+    {
+      "year": 1968,
+      "title": "教育兴家",
+      "description": "第一代大学生走出家门，开启了家族重视教育的传统。知识改变命运，这一信念代代相传。",
+      "image": "/images/history/placeholder.svg"
+    },
+    {
+      "year": 1985,
+      "title": "创业拼搏",
+      "description": "改革开放的春风中，家族成员勇敢创业，用双手创造美好生活。拼搏精神成为家族的DNA。",
+      "image": "/images/history/placeholder.svg"
+    },
+    {
+      "year": 1998,
+      "title": "家族团聚",
+      "description": "第一次全家族大团聚，三代人齐聚一堂。这次聚会成为家族传统，此后每年延续至今。",
+      "image": "/images/history/placeholder.svg"
+    },
+    {
+      "year": 2010,
+      "title": "新世代崛起",
+      "description": "新一代家族成员在各自领域崭露头角。科技、艺术、医学——多元发展成为家族的新特征。",
+      "image": "/images/history/placeholder.svg"
+    },
+    {
+      "year": 2024,
+      "title": "数字传承",
+      "description": "创建家族网站，用数字化的方式记录和传承家族的故事、照片与精神，让传承永不褪色。",
+      "image": "/images/history/placeholder.svg"
+    }
+  ]
+}
